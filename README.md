@@ -7,6 +7,10 @@ https://github.com/holobeat/zig-wasm-snake
 https://github.com/fabioarnold/zig-gorillas
 - 2-player local multiplayer game. Take turns throwing an exploding banana at each other.
 
+https://github.com/thejoshwolfe/legend-of-swarkland
+- Nethack inspired 2D Simple turn-based action fantasy puzzle sandbox.
+- rougelike
+
 ## Zig Game Frameworks
 
 https://github.com/JonSnowbd/slingworks
@@ -57,6 +61,9 @@ Discord tag of Creator: jackji#4456
 - 2D simple zig framework intended for game/tool creation
 - currently runs on zig 0.9* main branch
 
+https://github.com/danielabbott/Zig-Game-Engine
+- Made in Zig 0.6
+- 3D OpenGL forward renderer.
 ## Zig Game UI
 
 https://github.com/JonSnowbd/ZT
