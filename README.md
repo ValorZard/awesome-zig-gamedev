@@ -65,6 +65,13 @@ Discord tag of Creator: jackji#4456
 https://github.com/danielabbott/Zig-Game-Engine
 - Made in Zig 0.6
 - 3D OpenGL forward renderer.
+https://github.com/fubark/cosmic
+Discord tag of creator: fubar#8568
+- Single tool that lets you build javascript/TS apps for UI or games
+- HOWEVER, it also has a **custom zig graphics library** as one of its dependencies
+- https://github.com/fubark/cosmic/tree/master/graphics
+  - Pretty far along, can even read svg files
+
 ## Zig Game UI
 
 https://github.com/JonSnowbd/ZT
