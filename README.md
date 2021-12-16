@@ -30,6 +30,7 @@ Stephen Gutekanst (@slimsag#2321 on Discord) has been building an engine
 twitter: <https://twitter.com/slimsag>
 github: <https://github.com/hexops/mach>
 - Mach engine is still very early stages though it's improving rapidly.
+- Is planning to be a similar project like Bevy is for the Rust gamedev ecosystem
 
 There's also https://github.com/MasterQ32/zero-graphics (from @xq#5894 on Discord) 
 - zero-graphics is best at cross-platform 2D / light 3D stuff. 
@@ -71,6 +72,10 @@ Discord Tag of creator: Aetherwind#8836
 - A zig-contained library for Windows and Ubuntu that automatically compiles and links ImGui, OpenGL, stb_image, and GLFW into typed packages.
 - ZT will always target the latest dev version of Zig, and will create a branch for stable releases when convenient.
 - More of a UI thing than gamedev, but seems related 
+
+## Zig Game Dev Adjacent Libraries
+https://github.com/prime31/zig-ecs
+- zig rewrite of the popular ECS library Entt.
 
 ## Zig Ports of C Libraries
 
