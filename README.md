@@ -19,8 +19,9 @@ Discord Tag of creator: Aetherwind#8836
 - Slingworks is a 2d Game Engine where you provide the types, and slingworks does all the leg work for generating an editor, and all the windowing/graphics for you, and organized into Entity based scenes that has serialization saving/loading managed for you.
 - Note: currently recommened to use the dev branch instead of master
 
-https://github.com/Scibuild/zig-gamekit
+https://github.com/prime31/zig-gamekit
 - bundled along with zig renderkit, seems to be focused on 2d graphics only
+- uses SDL2 as its only (!) dependency.
 
 https://github.com/prime31/zig-renderkit
 - core library of zig-gamekit
