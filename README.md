@@ -86,6 +86,9 @@ https://github.com/Snektron/vulkan-zig
 https://github.com/SpexGuy/Zig-Oculus-Quest
 - Oculus Quest and Quest 2 bindings for Zig
 
+https://github.com/hexops/mach-glfw
+- Ziggified GLFW bindings
+
 ## Zig Game Art Tools
 
 https://github.com/fabioarnold/MiniPixel
