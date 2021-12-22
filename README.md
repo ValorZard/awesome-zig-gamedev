@@ -28,10 +28,12 @@ https://github.com/prime31/zig-renderkit
 
 
 Stephen Gutekanst (@slimsag#2321 on Discord) has been building an engine
+website: https://hexops.com/mach
 twitter: <https://twitter.com/slimsag>
 github: <https://github.com/hexops/mach>
-- Mach engine is still very early stages though it's improving rapidly.
-- Is planning to be a similar project like Bevy is for the Rust gamedev ecosystem
+- Mach engine is still in very early stages though it's improving rapidly.
+- Aims to be an all-in-one game engine made in Zig
+- Inspired by Bevy and Our Machinery.
 
 There's also https://github.com/MasterQ32/zero-graphics (from @xq#5894 on Discord) 
 - zero-graphics is best at cross-platform 2D / light 3D stuff. 
