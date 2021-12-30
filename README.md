@@ -76,6 +76,13 @@ Discord tag of creator: fubar#8568
 - https://github.com/fubark/cosmic/tree/master/graphics
   - Pretty far along, can even read svg files
 
+https://github.com/bootradev/cupcake
+Discord tag of creator: bootra#1648
+- an app framework for making small and delicious games! (very wip)
+- WEB FIRST
+- meant for doodling around with game development in zig
+- uses WebGPU
+
 ## Zig Game UI
 
 https://github.com/JonSnowbd/ZT
