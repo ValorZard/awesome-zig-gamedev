@@ -112,6 +112,11 @@ https://github.com/SpexGuy/Zig-Oculus-Quest
 https://github.com/hexops/mach-glfw
 - Ziggified GLFW bindings
 
+https://github.com/Not-Nik/raylib-zig
+- Manually tweaked, auto generated raylib bindings for zig.
+- Bindings tested on raylib version 3.7 and Zig 0.9.0-dev
+- Currently only supports a subset of raylib.
+
 ## Zig Game Art Tools
 
 https://github.com/fabioarnold/MiniPixel
