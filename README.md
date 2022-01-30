@@ -95,6 +95,10 @@ Discord Tag of creator: Aetherwind#8836
 https://github.com/prime31/zig-ecs
 - zig rewrite of the popular ECS library Entt.
 
+## Zig Bindings to existing game engines
+https://github.com/linuxy/godot-zig
+- zig bindings for Godot 3.4
+
 ## Zig Ports of C Libraries
 
 https://github.com/Guigui220D/zig-sfml-wrapper
