@@ -11,6 +11,11 @@ https://github.com/thejoshwolfe/legend-of-swarkland
 - Nethack inspired 2D Simple turn-based action fantasy puzzle sandbox.
 - rougelike
 
+https://github.com/mlarouche/ZigWwiseDemo
+Discord tag of creator: BaroqueLarouche#7469
+- Sample Application that uses Dear IMGUI, Win32, Direct3D 11 and Audiokinetic Wwise in Zig. 
+- all of which are quite popular in game development.
+
 ## Zig Game Frameworks
 
 https://github.com/JonSnowbd/slingworks
