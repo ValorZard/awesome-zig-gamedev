@@ -104,6 +104,11 @@ https://github.com/prime31/zig-ecs
 https://github.com/linuxy/godot-zig
 - zig bindings for Godot 3.4
 
+## Zig Game Physics
+https://github.com/silversquirl/phyz
+Discord Tag of creator: squirl#0047
+- 2D game physics engine, still alpha quality
+
 ## Zig Ports of C Libraries
 
 https://github.com/Guigui220D/zig-sfml-wrapper
