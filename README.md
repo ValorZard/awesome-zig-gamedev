@@ -31,6 +31,11 @@ https://github.com/prime31/zig-gamekit
 https://github.com/prime31/zig-renderkit
 - core library of zig-gamekit
 
+https://github.com/musi-musi/musi-leko/
+Discord tag of creator: jadebot#5200
+- voxel-base (think minecraft) style engine
+- early in development
+- made with zig 0.9
 
 Stephen Gutekanst (@slimsag#2321 on Discord) has been building an engine
 website: https://hexops.com/mach
