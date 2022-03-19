@@ -16,6 +16,12 @@ Discord tag of creator: BaroqueLarouche#7469
 - Sample Application that uses Dear IMGUI, Win32, Direct3D 11 and Audiokinetic Wwise in Zig. 
 - all of which are quite popular in game development.
 
+https://github.com/musi-musi/musi-leko/
+Discord tag of creator: jadebot#5200
+- voxel-base (think minecraft) style engine
+- early in development
+- made with zig 0.9
+
 ## Zig Game Frameworks
 
 https://github.com/JonSnowbd/slingworks
@@ -30,12 +36,6 @@ https://github.com/prime31/zig-gamekit
 
 https://github.com/prime31/zig-renderkit
 - core library of zig-gamekit
-
-https://github.com/musi-musi/musi-leko/
-Discord tag of creator: jadebot#5200
-- voxel-base (think minecraft) style engine
-- early in development
-- made with zig 0.9
 
 Stephen Gutekanst (@slimsag#2321 on Discord) has been building an engine
 website: https://hexops.com/mach
