@@ -105,6 +105,12 @@ Discord Tag of creator: Aetherwind#8836
 https://github.com/prime31/zig-ecs
 - zig rewrite of the popular ECS library Entt.
 
+https://github.com/kooparse/zalgebra
+- Linear algebra library for games and computer graphics.
+
+https://github.com/kooparse/zgltf
+- A glTF 2.0 parser written in Zig, aiming to replace the use of some C/C++ libraries.
+
 ## Zig Bindings to existing game engines
 https://github.com/linuxy/godot-zig
 - zig bindings for Godot 3.4
