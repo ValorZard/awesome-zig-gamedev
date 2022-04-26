@@ -22,6 +22,12 @@ Discord tag of creator: jadebot#5200
 - early in development
 - made with zig 0.9
 
+https://github.com/JustinRyanH/znake
+Discord tag of creator: JustJustin#5998
+- Multiple implementations of snake in using zig
+- Has a WASM4 implementation, Has a sokol-zig implementation
+- Implements prime31's `zig-ecs` for the sokol version
+
 ## Zig Game Frameworks
 
 https://github.com/JonSnowbd/slingworks
