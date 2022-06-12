@@ -28,6 +28,11 @@ Discord tag of creator: JustJustin#5998
 - Has a WASM4 implementation, Has a sokol-zig implementation
 - Implements prime31's `zig-ecs` for the sokol version
 
+https://github.com/PixelGuys/Stella-Dei
+Discord tag of creator: Zen1th#3854
+- SimEarth-like sandbox game where you can make and thrive your very own randomly-generated planet
+- uses zalgebra, zigimg, zig-opengl, Zig-Tracy and mach-glfw
+
 ## Zig Game Frameworks
 
 https://github.com/JonSnowbd/slingworks
