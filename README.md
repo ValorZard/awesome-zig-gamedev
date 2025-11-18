@@ -157,10 +157,10 @@ https://github.com/Snektron/vulkan-zig
 https://github.com/SpexGuy/Zig-Oculus-Quest
 - Oculus Quest and Quest 2 bindings for Zig
 
-https://github.com/hexops/mach-glfw
+https://github.com/Avokadoen/mach-glfw
 - Ziggified GLFW bindings
 
-https://github.com/Not-Nik/raylib-zig
+🗃️ (Archived - Aug 7, 2025) https://github.com/Not-Nik/raylib-zig 
 - Manually tweaked, auto generated raylib bindings for zig.
 - Bindings tested on raylib version 3.7 and Zig 0.9.0-dev
 - Currently only supports a subset of raylib.
